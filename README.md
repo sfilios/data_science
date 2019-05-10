@@ -31,4 +31,6 @@ Fantasy baseball wins are notoriously hard to come by. This project looks into p
 ### Data Challenges
 Data challenge responses that are published with permission.
   - UnifyID data challenge.ipynb
+  - Aerial-Intel-Data-Challenge
+  - Insight_Challenges
   
