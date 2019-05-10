@@ -1,4 +1,4 @@
-# data_science
+# Data_Science
 A collection of data science notebooks
 ## Table of Contents
 
